@@ -6,4 +6,4 @@ tags: [random, exciting-stuff]
 ---
 
 Studio feel. is the best lower-tier studio as of right now.
-from Teen Romantic Comedy SNAFU TOO and Tsuki ga Kirei.
+With 2 8.00+ Titles, My Teen Romantic Comedy SNAFU TOO and Tsuki ga Kirei, their future is looking great.
