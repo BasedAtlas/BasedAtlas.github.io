@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First try!
+title: First test!
 image: /img/hello_world.jpeg
 tags: [random, exciting-stuff]
 ---
