@@ -5,4 +5,4 @@ image: /img/hello_world.jpeg
 tags: [random, exciting-stuff]
 ---
 
-100 Trihards.
+Studio feel. is the best lower-tier studio as of right now.
